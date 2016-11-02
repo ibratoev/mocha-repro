@@ -1,4 +1,4 @@
-# A repro case for a mocha+npm issue that causes npm to exit without an error code, when a test fails. 
+# A repro case for a mocha+npm issue that causes npm to exit without an error code, when a test fails. See https://github.com/mochajs/mocha/issues/2355
 
 ## Actual: 
 `npm run test` -> exits without error
